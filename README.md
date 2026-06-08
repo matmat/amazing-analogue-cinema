@@ -18,7 +18,6 @@ In reverse cronological order
 - Gjestland, Rolv (2001) - Kinoteknikk : hvordan vise film for publikum etter filmskaperens intensjoner (Norwegian)
 - Eastman Kodak (1998) - [Projection Guidlines for Reel People](https://archive.org/details/projection-guidelines-for-reel-people)
 - Dewrance, Peter (1997) - BKSTS Projectionist's Manual
-- Eastman Kodak (1984) - Film notes for the reel people collection
 - Happé, L. Bernard (1979) - Motion picture presentation manual
 - Kloepfel, Don V. (1969) - [Motion-picture projection and theatre presentation manual](https://archive.org/details/motionpicturepro0000unse_u2q9)
 - Cameron, James R. (1969) - Motion picture projection and sound pictures, 15th ed.
@@ -30,10 +29,19 @@ In reverse cronological order
 - Molloy, E. (ed.) (1946) - Sound-Film Projection
 - Sloane, T. O'Conor (1922) - [Motion picture projection](https://archive.org/details/motionpicturepro00sloauoft)
 
+### Film Handling
+- Eastman Kodak (1992) - [The Book of film care, 2nd ed.](https://archive.org/details/projection-guidelines-for-reel-people)
+- Eastman Kodak (1984) - Film notes for the reel people collection
+
+## Magazines
+- Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes) [#1](https://archive.org/details/KodakfilmnotesH501) [#4](https://archive.org/details/KodakfilmnotesH504) [#22](https://archive.org/details/kodak-reel-people-summer-1988-d.-d.-teoli-jr.-a.-c.-7/)
+- Projectionisten : organ för Sveriges projectionisters riksförbund (1951-1955) (Swedish)
+- [International Projectionist (1933-1965)](https://mediahist.org/features/publications-volumes.php?id=International%20projectionist)
+- [The Motion Picture Projectionist (1927-1933)](https://mediahist.org/features/publications-volumes.php?id=The%20motion%20picture%20projectionist)
+
 ## Articles
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/)
 - Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) (French)
-- Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes) [#1](https://archive.org/details/KodakfilmnotesH501) [#4](https://archive.org/details/KodakfilmnotesH504) [#22](https://archive.org/details/kodak-reel-people-summer-1988-d.-d.-teoli-jr.-a.-c.-7/)
 
 ## Websites
 ### General
