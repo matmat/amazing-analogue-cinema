@@ -20,15 +20,15 @@ In reverse cronological order
 - Dewrance, Peter (1997) - BKSTS Projectionist's Manual
 - Eastman Kodak (1984) - Film notes for the reel people collection
 - Happé, L. Bernard (1979) - Motion picture presentation manual
-- Kloepfel, Don V. (1969) - Motion-picture projection and theatre presentation manual
+- Kloepfel, Don V. (1969) - [Motion-picture projection and theatre presentation manual](https://archive.org/details/motionpicturepro0000unse_u2q9)
 - Cameron, James R. (1969) - Motion picture projection and sound pictures, 15th ed.
 - Enz, Kurt (1965) - Filmprojektoren, Filmprojektion (German)
-- Mitchell, Robert A. (1956) - Manual of practical projection
+- Mitchell, Robert A. (1956) - [Manual of practical projection](https://archive.org/details/manualofpractica0000robe)
 - Nadell, Aaron (ed.) (1953) - Richardson's Bluebook of Projection, 8th ed.
 - Cameron, James R. (1952) - Motion picture projection and sound pictures, 14th ed.
 - Cricks, R. Howard (1949) - The Complete Projectionist
 - Molloy, E. (ed.) (1946) - Sound-Film Projection
-- Sloane, T. O'Conor (1922) - Motion picture projection
+- Sloane, T. O'Conor (1922) - [Motion picture projection](https://archive.org/details/motionpicturepro00sloauoft)
 
 ## Articles
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/)
