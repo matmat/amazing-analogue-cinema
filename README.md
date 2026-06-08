@@ -39,7 +39,7 @@ Please feel free to contribute to this list!
 - [A Guide to Identifying Year of Manufacture for KODAK Motion Picture Films](https://web.archive.org/web/20260410223938/https://www.kodak.com/content/products-brochures/Film/Guide-to-Identifying-Year-of-Manufacture-for-KODAK-Motion-Picture-Films.pdf)
 
 ### Equipment manuals
-- [Manuals](https://www.film-tech.com/warehouse/index.php?category=2)
+- [Manuals](https://www.film-tech.com/warehouse/index.php?category=2) (Film-Tech.com)
 - [AGA Färgfilmsprojektor](https://technotel.se/bio/manualer/aga14.pdf) (Swedish)
 - [Philips FP56](https://technotel.se/bio/manualer/fp56.pdf)
 
@@ -89,7 +89,7 @@ Please feel free to contribute to this list!
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/) ($)
 - Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) ($) (French)
 
-## Similar lists
+## Other lists
 - [Chicago Film Society recommended reading](https://www.chicagofilmsociety.org/reading/)
 - [Sprocket School Resources](https://www.sprocketschool.org/wiki/Resources)
 - [Links & Thoughts](https://www.filmprojection21.org/links/) (filmprojection21.org)
