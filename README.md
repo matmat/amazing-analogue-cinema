@@ -8,9 +8,14 @@ Please feel free to contribute to this list!
 # Resources
 
 ## Books
-- Sætervadet, Torkell (2006) - [The advanced projection manual : presenting classic films in a modern projection environment](https://www.fiafnet.org/pages/Publications/Books.html)
-- Cherchi Usai, Paolo et al. (ed.) (2019) - [The art of film projection : a beginner’s guide](https://www.artbook.com/9780935398311.html)
+Cronological order
 - Independent Cinema Office (2020) - [An introductory guide to film projection](https://www.independentcinemaoffice.org.uk/advice-support/an-introductory-guide-to-film-projection/)
+- Cherchi Usai, Paolo et al. (ed.) (2019) - [The art of film projection : a beginner’s guide](https://www.artbook.com/9780935398311.html)
+- Hanson, Dion (2009) - BKSTS Projectionists' Handbook
+- Sætervadet, Torkell (2006) - [The advanced projection manual](https://www.fiafnet.org/pages/Publications/Books.html)
+- Liljedahl, Richard (2004) - Att köra film på bio : lärobok för biografmaskinister (Swedish)
+- Gjestland, Rolv (2001) - Kinoteknikk : hvordan vise film for publikum etter filmskaperens intensjoner
+- Dewrance, Peter (1997) - BKSTS Projectionist's Manual
 
 ## Websites
 - [The American WideScreen Museum](https://www.widescreenmuseum.com/)
