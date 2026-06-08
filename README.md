@@ -29,6 +29,11 @@ In reverse cronological order
 - Molloy, E. (ed.) (1946) - Sound-Film Projection
 - Sloane, T. O'Conor (1922) - Motion picture projection
 
+## Articles
+- Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/)
+- Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) (French)
+
+
 ## Websites
 ### General
 - [The American WideScreen Museum](https://www.widescreenmuseum.com/)
@@ -38,6 +43,10 @@ In reverse cronological order
 
 ### Projection practices
 - [Projection Practices and Showmanship](https://www.acofs.org.au/projprac.htm) (Australian Council of Film Societies)
+- [Showmanship](https://www.sprocketschool.org/wiki/Showmanship) (Sprocket School)
+- [Showmanship : A Guide to Good Projection and Operating Practices](https://web.archive.org/web/20220517204518/https://www.screeningroomservices.com/Showmanship.htm) (Gordon R. Bachlund & Timothy P. Dulin)
+- [Showmanship in the (US) Road Show era](https://cinemasightlines.com/showmanship_roadshow.php) (Cinema Sightlines)
+- [Showmanshio = Roadshow](http://www.widescreenmuseum.com/widescreen/showmanship.htm) (American Widescreen Museum)
 - [Manuals and Training](https://www.madcornishprojectionist.co.uk/projection/projectionism/manuals/) (Peter J. Knight)
 
 ## Forums, Wikis etc.
