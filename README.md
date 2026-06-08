@@ -62,6 +62,7 @@ Please feel free to contribute to this list!
 - Eastman Kodak (1998) - [Projection Guidelines for Reel People](https://archive.org/details/projection-guidelines-for-reel-people/)
 - Dewrance, Peter (1997) - BKSTS Projectionist's Manual
 - Happé, L. Bernard (1979) - Motion picture presentation manual
+- Tümmel, Herbert (1973) - [Laufbildprojektion](https://d-nb.info/730405753) (German)
 - Kloepfel, Don V. (1969) - [Motion-picture projection and theatre presentation manual](https://archive.org/details/motionpicturepro0000unse_u2q9)
 - Cameron, James R. (1969) - Motion picture projection and sound pictures, 15th ed.
 - Enz, Kurt (1965) - [Filmprojektoren, Filmprojektion](https://d-nb.info/451124901) (German)
