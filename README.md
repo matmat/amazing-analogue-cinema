@@ -16,8 +16,9 @@ In reverse cronological order
 - Sætervadet, Torkell (2006) - [The advanced projection manual](https://www.fiafnet.org/pages/Publications/Books.html)
 - Liljedahl, Richard (2004) - [Att köra film på bio : lärobok för biografmaskinister](Att%20köra%20film%20på%20bio%20lärobok%20för%20biografmaskinister.pdf) (Swedish)
 - Gjestland, Rolv (2001) - Kinoteknikk : hvordan vise film for publikum etter filmskaperens intensjoner (Norwegian)
+- Eastman Kodak (1998) - [Projection Guidlines for Reel People](https://archive.org/details/projection-guidelines-for-reel-people)
 - Dewrance, Peter (1997) - BKSTS Projectionist's Manual
-- Kodak (1984) - Film notes for the reel people collection
+- Eastman Kodak (1984) - Film notes for the reel people collection
 - Happé, L. Bernard (1979) - Motion picture presentation manual
 - Kloepfel, Don V. (1969) - Motion-picture projection and theatre presentation manual
 - Cameron, James R. (1969) - Motion picture projection and sound pictures, 15th ed.
@@ -37,9 +38,11 @@ In reverse cronological order
 ## Websites
 ### General
 - [The American WideScreen Museum](https://www.widescreenmuseum.com/)
+- [Brian R. Pritchard](https://brianpritchard.com/) - Motion Picture and Film Archive Consultant
 - [Chicago Film Society](https://www.chicagofilmsociety.org/)
 - [filmprojection21.org](https://www.filmprojection21.org/)
 - [in70mm.com](https://in70mm.com/)
+
 
 ### Projection practices
 - [Projection Practices and Showmanship](https://www.acofs.org.au/projprac.htm) (Australian Council of Film Societies)
@@ -67,4 +70,5 @@ In reverse cronological order
 - [davidferguson/dolby-srd](https://github.com/davidferguson/dolby-srd) - An effort to reverse engineer Dolby SR•D, ie. Dolby Digital on 35mm film
 - [MPdecode/LtRtMatrixDecoder](https://github.com/MPdecode/LtRtMatrixDecoder) - An JSFX plugin designed for decoding LtRt matrix-encoded audio aiming to emulate cinema sound processors.
 - [foo_input_apt-x100](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/) - An DTS Cinema decoder plugin for [Foobar2000](https://www.foobar2000.org/) by Maxim V.Anisiutkin.
+
 
