@@ -32,7 +32,7 @@ In reverse cronological order
 ## Articles
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/)
 - Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) (French)
-
+- Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes) [#1](https://archive.org/details/KodakfilmnotesH501) [#4](https://archive.org/details/KodakfilmnotesH504) [#22](https://archive.org/details/kodak-reel-people-summer-1988-d.-d.-teoli-jr.-a.-c.-7/)
 
 ## Websites
 ### General
