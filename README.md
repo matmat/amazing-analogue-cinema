@@ -15,7 +15,6 @@ Please feel free to contribute to this list!
 - [filmprojection21.org](https://www.filmprojection21.org/)
 - [Brian R. Pritchard](https://brianpritchard.com/) - Motion Picture and Film Archive Consultant
 - [The American WideScreen Museum](https://www.widescreenmuseum.com/)
-- [A Guide to Identifying Year of Manufacture for KODAK Motion Picture Films](https://web.archive.org/web/20260410223938/https://www.kodak.com/content/products-brochures/Film/Guide-to-Identifying-Year-of-Manufacture-for-KODAK-Motion-Picture-Films.pdf)
 
 ### Forums, Wikis, etc.
 - [Film Handler's Forum](https://www.film-tech.com/vbb/forum/digital-cinema-forum) (Film-Tech.com)
@@ -26,6 +25,7 @@ Please feel free to contribute to this list!
 - [Biografmaskinister Facebook Group](https://www.facebook.com/groups/459249967435886/) (Swedish)
 
 ### Projection practices
+- [AMIA Theater Presentation Guidelines](https://amianet.org/wp-content/uploads/Resources-Film-Exhibition-Theatre-Guidelines.pdf)
 - [Tips](https://www.film-tech.com/warehouse/index.php?category=5) (Film-Tech.com)
 - [Projection Practices and Showmanship](https://www.acofs.org.au/projprac.htm) (Australian Council of Film Societies)
 - [Showmanship](https://www.sprocketschool.org/wiki/Showmanship) (Sprocket School)
@@ -34,12 +34,16 @@ Please feel free to contribute to this list!
 - [Showmanship = Roadshow](http://www.widescreenmuseum.com/widescreen/showmanship.htm) (American Widescreen Museum)
 - [Manuals and Training](https://www.madcornishprojectionist.co.uk/projection/projectionism/manuals/) (Peter J. Knight)
 
+### Inspection, identification, etc.
+- [AMIA List of inspection forms and identification resources](https://github.com/amiaopensource/analog-inspection)
+- [A Guide to Identifying Year of Manufacture for KODAK Motion Picture Films](https://web.archive.org/web/20260410223938/https://www.kodak.com/content/products-brochures/Film/Guide-to-Identifying-Year-of-Manufacture-for-KODAK-Motion-Picture-Films.pdf)
+
 ### Equipment manuals
 - [Manuals](https://www.film-tech.com/warehouse/index.php?category=2)
 - [AGA Färgfilmsprojektor](https://technotel.se/bio/manualer/aga14.pdf) (Swedish)
 - [Philips FP56](https://technotel.se/bio/manualer/fp56.pdf)
 
-### Software & misc. technical information
+### Software, etc.
 - [davidferguson/dolby-srd](https://github.com/davidferguson/dolby-srd) - An effort to reverse engineer Dolby SR•D, ie. Dolby Digital on 35mm film
 - [MPdecode/LtRtMatrixDecoder](https://github.com/MPdecode/LtRtMatrixDecoder) - An JSFX plugin designed for decoding LtRt matrix-encoded audio aiming to emulate cinema sound processors.
 - [foo_input_apt-x100](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/) - An DTS Cinema decoder plugin for [Foobar2000](https://www.foobar2000.org/) by Maxim V.Anisiutkin.
