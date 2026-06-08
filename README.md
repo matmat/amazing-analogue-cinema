@@ -10,20 +10,20 @@ Please feel free to contribute to this list!
 ## Online Resources
 
 ### General
-- [The American WideScreen Museum](https://www.widescreenmuseum.com/)
-- [Brian R. Pritchard](https://brianpritchard.com/) - Motion Picture and Film Archive Consultant
 - [Chicago Film Society](https://www.chicagofilmsociety.org/)
-- [filmprojection21.org](https://www.filmprojection21.org/)
 - [in70mm.com](https://in70mm.com/)
+- [filmprojection21.org](https://www.filmprojection21.org/)
+- [Brian R. Pritchard](https://brianpritchard.com/) - Motion Picture and Film Archive Consultant
+- [The American WideScreen Museum](https://www.widescreenmuseum.com/)
 - [A Guide to Identifying Year of Manufacture for KODAK Motion Picture Films](https://web.archive.org/web/20260410223938/https://www.kodak.com/content/products-brochures/Film/Guide-to-Identifying-Year-of-Manufacture-for-KODAK-Motion-Picture-Films.pdf)
 
 ### Forums, Wikis, etc.
-- [Biografmaskinister Facebook Group](https://www.facebook.com/groups/459249967435886/) (Swedish)
-- Film-tech.com [Film Handler's Forum](https://www.film-tech.com/vbb/forum/digital-cinema-forum)
-- Film-tech.com [Film Handler's, Forum archive 1999-2019](https://www.film-tech.com/ubb/f1.html)
+- [Film Handler's Forum](https://www.film-tech.com/vbb/forum/digital-cinema-forum) (Film-Tech.com)
+- [Film Handler's Forum, archive 1999-2019](https://www.film-tech.com/ubb/f1.html) (Film-Tech.com)
+- [Sprocket School](https://www.sprocketschool.org/)
 - [Das Filmvorfürerforum](https://www.filmvorfuehrer.de/forum/11-nostalgie/) (German)
 - [Projectioniste.net forums](https://www.projectionniste.net/forums/) (French)
-- [Sprocket School](https://www.sprocketschool.org/)
+- [Biografmaskinister Facebook Group](https://www.facebook.com/groups/459249967435886/) (Swedish)
 
 ### Projection practices
 - [Tips](https://www.film-tech.com/warehouse/index.php?category=5) (Film-Tech.com)
@@ -35,7 +35,7 @@ Please feel free to contribute to this list!
 - [Manuals and Training](https://www.madcornishprojectionist.co.uk/projection/projectionism/manuals/) (Peter J. Knight)
 
 ### Equipment manuals
-- Film-tech.com [Warehouse](https://www.film-tech.com/warehouse/)
+- [Manuals](https://www.film-tech.com/warehouse/index.php?category=2)
 - [AGA Färgfilmsprojektor](https://technotel.se/bio/manualer/aga14.pdf) (Swedish)
 - [Philips FP56](https://technotel.se/bio/manualer/fp56.pdf)
 
@@ -69,10 +69,11 @@ Please feel free to contribute to this list!
 - Sloane, T. O'Conor (1922) - [Motion picture projection](https://archive.org/details/motionpicturepro00sloauoft)
 
 #### Film Care, identification, preservation etc.
+- Brown, Harold (2020) - [Physical characteristics of early films as aids to identification, new expanded edition.](https://www.fiafnet.org/pages/Publications/Books.html)
+- National Film Preservation Foundation (2004) - [The film preservation guide](https://www.filmpreservation.org/preservation-basics/the-film-preservation-guide)
 - Read, Paul (2000) - [Restoration of motion picture film](https://shop.elsevier.com/books/restoration-of-motion-picture-film/read/978-0-08-051619-6)
 - Eastman Kodak (1992) - [The Book of film care, 2nd ed.](https://archive.org/details/kodak-the-book-of-film-care/)
 - Eastman Kodak (1984) - Film notes for the reel people collection
-
 
 ### Magazines and newsletters
 - Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes)
@@ -81,8 +82,8 @@ Please feel free to contribute to this list!
 - [The Motion Picture Projectionist (1927-1933)](https://mediahist.org/features/publications-volumes.php?id=The%20motion%20picture%20projectionist)
 
 ### Articles and papers
-- Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/)
-- Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) (French)
+- Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/) ($)
+- Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) ($) (French)
 
 ## Similar lists
 - [Chicago Film Society recommended reading](https://www.chicagofilmsociety.org/reading/)
