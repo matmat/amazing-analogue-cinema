@@ -14,7 +14,7 @@ In reverse cronological order
 - Cherchi Usai, Paolo et al. (ed.) (2019) - [The art of film projection : a beginner’s guide](https://www.artbook.com/9780935398311.html)
 - Hanson, Dion (2009) - BKSTS Projectionists' Handbook
 - Sætervadet, Torkell (2006) - [The advanced projection manual](https://www.fiafnet.org/pages/Publications/Books.html)
-- Liljedahl, Richard (2004) - Att köra film på bio : lärobok för biografmaskinister (Swedish)
+- Liljedahl, Richard (2004) - [Att köra film på bio : lärobok för biografmaskinister](Att köra film på bio lärobok för biografmaskinister.pdf) (Swedish)
 - Gjestland, Rolv (2001) - Kinoteknikk : hvordan vise film for publikum etter filmskaperens intensjoner (Norwegian)
 - Dewrance, Peter (1997) - BKSTS Projectionist's Manual
 - Kodak (1984) - Film notes for the reel people collection
