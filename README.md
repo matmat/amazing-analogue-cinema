@@ -73,6 +73,7 @@ Please feel free to contribute to this list!
 - Cameron, James R. (1952) - Motion picture projection and sound pictures, 14th ed.
 - Cricks, R. Howard (1949) - The Complete Projectionist
 - Molloy, E. (ed.) (1946) - Sound-Film Projection
+- Nadell, Aaron (ed.) (1942) - [F. H. Richardson's Bluebook of Projection, 7th ed.](https://archive.org/details/bluebookofprojecsevaaro/)
 - Sloane, T. O'Conor (1922) - [Motion picture projection](https://archive.org/details/motionpicturepro00sloauoft)
 
 #### Film Care, identification, preservation etc.
@@ -91,6 +92,7 @@ Please feel free to contribute to this list!
 ### Articles and papers
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/) ($)
 - Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) ($) (French)
+- Brownlow, Kevin (1989) - [Silent Films. What Was the Right Speed?](https://web.archive.org/web/20111109054638/http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm)
 
 ## Other lists
 - [Chicago Film Society recommended reading](https://www.chicagofilmsociety.org/reading/)
