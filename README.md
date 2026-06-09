@@ -92,7 +92,7 @@ Please feel free to contribute to this list!
 ### Articles and papers
 - Olsen, Jan Eberholst (2016) - [Maintaining Analog Film Projection the Digital Age](https://www.proquest.com/docview/1793933140/fulltextPDF/) ($)
 - Auger, François (2004) - [Projectionniste dans une cinémathèque (la Cinémathèque québécoise)](https://www.proquest.com/docview/235884499/fulltextPDF/) ($) (French)
-- Brownlow, Kevin (1989) - [Silent Films. What Was the Right Speed?](https://web.archive.org/web/20111109054638/http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm)
+- Brownlow, Kevin (1980) - [Silent Films. What Was the Right Speed?](https://web.archive.org/web/20111109054638/http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm)
 
 ## Other lists
 - [Chicago Film Society recommended reading](https://www.chicagofilmsociety.org/reading/)
