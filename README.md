@@ -13,7 +13,7 @@ Please feel free to contribute to this list!
 - [Chicago Film Society](https://www.chicagofilmsociety.org/)
 - [in70mm.com](https://in70mm.com/)
 - [filmprojection21.org](https://www.filmprojection21.org/)
-- [Brian R. Pritchard](https://brianpritchard.com/) - Motion Picture and Film Archive Consultant
+- [Brian R. Pritchard](https://brianpritchard.com/)
 - [The American WideScreen Museum](https://www.widescreenmuseum.com/)
 
 ### Forums, Wikis, etc.
@@ -25,6 +25,7 @@ Please feel free to contribute to this list!
 - [Biografmaskinister Facebook Group](https://www.facebook.com/groups/459249967435886/) (Swedish)
 
 ### Projection practices
+- [Pytlak's Practical Projection Pointers](https://web.archive.org/web/20060509065153/http://www.kodak.com/US/en/motion/newsletters/pytlak/?id=0.1.4.9&lc=en)
 - [AMIA Theater Presentation Guidelines](https://amianet.org/wp-content/uploads/Resources-Film-Exhibition-Theatre-Guidelines.pdf)
 - [Tips](https://www.film-tech.com/warehouse/index.php?category=5) (Film-Tech.com)
 - [Projection Practices and Showmanship](https://www.acofs.org.au/projprac.htm) (Australian Council of Film Societies)
@@ -35,6 +36,7 @@ Please feel free to contribute to this list!
 - [Manuals and Training](https://www.madcornishprojectionist.co.uk/projection/projectionism/manuals/) (Peter J. Knight)
 
 ### Inspection, identification, etc.
+- [Film Atlas](https://www.filmatlas.com/), An interactive guide to film formats, soundtracks, and color process
 - [AMIA List of inspection forms and identification resources](https://github.com/amiaopensource/analog-inspection)
 - [A Guide to Identifying Year of Manufacture for KODAK Motion Picture Films](https://web.archive.org/web/20260410223938/https://www.kodak.com/content/products-brochures/Film/Guide-to-Identifying-Year-of-Manufacture-for-KODAK-Motion-Picture-Films.pdf)
 
@@ -81,7 +83,7 @@ Please feel free to contribute to this list!
 - Eastman Kodak (1984) - Film notes for the reel people collection
 
 ### Magazines and newsletters
-- Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes)
+- Kodak Film Notes for Reel People (1976-2000) [#1-56](https://www.film-tech.com/warehouse/index.php?category=2#Eastman%20Kodak%20Film%20Notes) [CFS List](https://docs.google.com/spreadsheets/d/13B_amZu2-etmoo5szlmIQrHWl-frjo8GE8i_WWAOgrA)
 - Projectionisten : organ för Sveriges projectionisters riksförbund (1951-1955) (Swedish)
 - [International Projectionist (1933-1965)](https://mediahist.org/features/publications-volumes.php?id=International%20projectionist)
 - [The Motion Picture Projectionist (1927-1933)](https://mediahist.org/features/publications-volumes.php?id=The%20motion%20picture%20projectionist)
